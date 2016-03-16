@@ -23,7 +23,7 @@
   "dependencies": {
     "broccoli-plugin": "^1.2.0",
     "rsvp": "^3.1.0",
-    "required": "^1.0.0",
+    "required": "git://github.com/shenanigans/node-required.git",
     "symlink-or-copy": "^1.0.1"
   }
 }
