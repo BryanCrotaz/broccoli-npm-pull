@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BryanCrotaz/broccoli-npm-pull.git"
+    "url": "https://github.com/josephroffey/broccoli-npm-pull.git"
   },
   "keywords": [
     "broccoli-plugin",
     "npm"
   ],
-  "author": "Bryan Crotaz <bgcrotaz@hotmail.com>",
+  "author": "Joseph Roffey <joseph.roffey@silvercurve.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BryanCrotaz/broccoli-npm-pull/issues"
+    "url": "https://github.com/josephroffey/broccoli-npm-pull/issues"
   },
-  "homepage": "https://github.com/BryanCrotaz/broccoli-npm-pull",
+  "homepage": "https://github.com/josephroffey/broccoli-npm-pull",
   "dependencies": {
     "broccoli-plugin": "^1.2.0",
     "rsvp": "^3.1.0",
