@@ -1,6 +1,6 @@
 {
   "name": "broccoli-npm-pull",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Puts a node_modules folder in your dist output with only the modules you've used",
   "main": "index.js",
   "scripts": {
